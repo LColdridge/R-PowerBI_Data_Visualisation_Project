@@ -10,7 +10,7 @@ Hollywoods Most Profitable Stories - Title, Genre, Studio, Profitability and Rat
 
 # Dashboard:
 [Hollywood Movies Data - Power BI](https://app.powerbi.com/groups/me/reports/784634b5-aabb-452c-abdf-1c18d663b96e/ReportSection)
-
+(C:\Users\lcold\OneDrive\Desktop\Data Technician\Assignments\Assignnment 3 - R & Power BI)
 
 
 My above dashboard shows:
