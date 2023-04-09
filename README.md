@@ -1,8 +1,8 @@
 # R PowerBI Data Visualisation Project
-For this project, I used Rstudio to analyse and clean an open source dataset. This included, checking data types, dropping missing values, duplicates and outliers and rounding. I showcase summary statistics, a scatterplot and bar charts. I then imported the clean data into Microsoft Power BI to create a visually pleasing dashboard.  
+For this project, I used Rstudio to analyse and clean an open source dataset. This included, checking data types, dropping missing values, duplicates and outliers and rounding. I showcased summary statistics, a scatterplot and bar charts. Finally, I imported the clean data into Microsoft Power BI to create a visually pleasing dashboard.  
 
 # Data:
-Hollywoods Most Profitable Stories - Title, Genre, Studio, Profitability and Ratings
+Hollywood's Most Profitable Stories - Title, Genre, Studio, Profitability and Ratings
 
 # Objectives:
 - To analyse the performance of Hollywood movies
