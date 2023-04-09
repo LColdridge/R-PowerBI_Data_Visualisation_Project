@@ -10,8 +10,7 @@ Hollywoods Most Profitable Stories - Title, Genre, Studio, Profitability and Rat
 
 # Dashboard:
 [Hollywood Movies Data - Power BI](https://app.powerbi.com/groups/me/reports/784634b5-aabb-452c-abdf-1c18d663b96e/ReportSection)
-![Dashboard](C:\Users\lcold\OneDrive\Desktop\Data Technician\Assignments\Assignnment 3 - R & Power BI)
-
+![My Dashboard GIF](https://user-images.githubusercontent.com/124378648/230783710-ca1960de-3d63-4751-8f5e-b994e900fb64.jpg)
 
 My above dashboard shows:
 - The average Rotten Tomatoes ratings of each genre
